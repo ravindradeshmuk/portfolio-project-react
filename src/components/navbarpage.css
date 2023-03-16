@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+   
+   margin: 2rem;
+    width: 100%;
+    justify-content: space-around;
+    padding: 1px;
+  
+}
+a{
+   text-decoration: none;
+   list-style: none;
+   text-underline-position: none;
+   color:black;
+    border-radius: 4px;
+    padding:1px;
+}
